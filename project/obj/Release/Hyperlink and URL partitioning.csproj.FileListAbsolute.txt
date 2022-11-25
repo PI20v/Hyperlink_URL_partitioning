@@ -1,0 +1,11 @@
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\bin\Release\Hyperlink and URL partitioning.exe.config
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\bin\Release\Hyperlink and URL partitioning.exe
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\bin\Release\Hyperlink and URL partitioning.pdb
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.csproj.AssemblyReference.cache
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink_and_URL_partitioning.AdminPanel.resources
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink_and_URL_partitioning.Properties.Resources.resources
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.csproj.GenerateResource.cache
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.csproj.CoreCompileInputs.cache
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.exe
+C:\Users\Klukva\source\repos\Hyperlink and URL partitioning\obj\Release\Hyperlink and URL partitioning.pdb

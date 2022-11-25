@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyperlink and URL partitioning", "Hyperlink and URL partitioning.csproj", "{237239FF-D509-4948-911A-E33D401FD849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237239FF-D509-4948-911A-E33D401FD849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237239FF-D509-4948-911A-E33D401FD849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237239FF-D509-4948-911A-E33D401FD849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237239FF-D509-4948-911A-E33D401FD849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606C3BC2-CDD2-498E-BB5A-4705BDD36C5A}
+	EndGlobalSection
+EndGlobal
